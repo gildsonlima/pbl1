@@ -10051,23 +10051,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GCL\\.nuget\\packages\\": {},
+    "C:\\Users\\alunovdi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\GCL\\Documents\\Estudos\\Ds2\\pbl1\\pbl1.csproj",
+      "projectUniqueName": "C:\\Users\\alunovdi\\Documents\\GitHub\\pbl1\\pbl1.csproj",
       "projectName": "pbl1",
-      "projectPath": "c:\\Users\\GCL\\Documents\\Estudos\\Ds2\\pbl1\\pbl1.csproj",
-      "packagesPath": "C:\\Users\\GCL\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\GCL\\Documents\\Estudos\\Ds2\\pbl1\\obj\\",
+      "projectPath": "C:\\Users\\alunovdi\\Documents\\GitHub\\pbl1\\pbl1.csproj",
+      "packagesPath": "C:\\Users\\alunovdi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alunovdi\\Documents\\GitHub\\pbl1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\GCL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alunovdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10076,7 +10076,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
